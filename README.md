@@ -24,4 +24,4 @@
             <p class="escola-texto-dois"></p>
             <img src="" alt="">
         </div>
-        </header>02
+        </header>
